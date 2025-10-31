@@ -1,18 +1,85 @@
-## HEY THERE 👋
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/brinda13/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:brinda.contactme@gmail.com) 
+# 👋 Hey there, I'm Brinda Parthiban  
 
-# 💻 Tech Stack:
-![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=brinda3&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=brinda3&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=brinda3&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+🚀 **Blockchain Developer | Smart Contracts | Web3 | DeFi | Python**  
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=brinda3&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00F5D4&center=true&vCenter=true&width=500&lines=Building+secure+dApps+on+EVM+chains;Exploring+Web3+innovation;Always+learning+and+shipping+code!)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=brinda3&icon=4&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧠 About Me  
+
+I’m **Brinda**, a passionate **Blockchain Developer** with 2+ years of experience building secure, production-grade Web3 systems in crypto and fintech environments.  
+I’ve worked across **Solidity, Node.js, ethers.js**, and **Python**, crafting smart contracts, wallet integrations, and real-world tokenization systems that bring blockchain to practical use.  
+
+💡 I’m driven by curiosity and problem-solving always eager to learn, experiment, and create value through technology.  
+
+---
+
+## 💠 I Specialize In  
+
+⚙️ **Smart Contract Development:** Solidity, Hardhat, OpenZeppelin  
+🔗 **DeFi & Automation:** Flashloans, Cross-DEX Arbitrage, Staking  
+🏗 **Tokenization:** Real-World Assets (RWT), ICOs, Multi-Round Sales  
+💼 **Wallet & DApp Integrations:** Web3.js, ethers.js, Custodial & Non-Custodial Wallets  
+🧩 **Software Development:** Python, Node.js, JavaScript, Data Structures & Algorithms  
+
+---
+
+## 🧱 Tech Stack  
+
+### 🔹 Smart Contracts & Blockchain  
+`Solidity` · `Hardhat` · `Ethereum` · `Polygon` · `BSC` · `Arbitrum` · `Base` · `AVAX` · `TON`  
+
+### 💻 Web & Development Tools  
+`Node.js` · `Python` · `TypeScript` · `React Native` · `Ethers.js` · `Web3.js` · `IPFS` · `OpenZeppelin` · `Chainlink` · `Mocha`  
+
+---
+
+## 🚀 Featured Projects  
+
+### 🪙 **KooDooICO**  
+KYC-based multi-round ICO contract with dynamic pricing, referral bonuses, and BNB/token payments.  
+**Tech:** Solidity, Hardhat, Chainlink, BNB Chain, OpenZeppelin  
+
+### 🏠 **RWT**  
+Real-World Asset Tokenization framework supporting ERC-2981 royalties, access control, and signature verification.  
+**Tech:** Solidity, Hardhat, Polygon, OpenZeppelin  
+
+### ⚡ **Cross-DEX Arbitrage Bot**  
+Automated flashloan arbitrage system executing profitable trades via Aave and OpenOcean.  
+**Tech:** Node.js, Solidity, Aave Protocol, OpenOcean API  
+
+### 💼 **Custodial Wallet Platform**  
+Multi-chain wallet supporting EVM, Solana, and Tron with on-chain swaps and staking.  
+**Tech:** React Native, Ethers.js, Solana Web3.js, TronWeb  
+
+---
+
+## 🧭 Experience  
+
+| Role | Company | Period |
+|------|----------|--------|
+| 🧩 Blockchain Developer | Early-Stage Web3 Startup | 2023 – Present |
+
+---
+
+## 📊 GitHub Analytics  
+
+![Brinda's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)  
+
+---
+
+## ⚡ Quote of the Day  
+> *“Build it. Break it. Fix it. Learn from it.”*  
+
+---
+
+## 💬 Connect with Me  
+
+📍 **Based in:** India  
+🔗 [**LinkedIn**](https://www.linkedin.com/in/brindaparthiban)  
+💼 [**Portfolio / GitHub**](https://github.com/your-github-username)  
+📧 **brinda.contactme@gmail.com**  
+
+✨ *“From Smart Contracts to Real-World Impact Securely Built.”* ✨  
