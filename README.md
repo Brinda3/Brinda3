@@ -78,8 +78,8 @@ Multi-chain wallet supporting EVM, Solana, and Tron with on-chain swaps and stak
 ## 💬 Connect with Me  
 
 📍 **Based in:** India  
-🔗 [**LinkedIn**](https://www.linkedin.com/in/brindaparthiban)  
-💼 [**Portfolio / GitHub**](https://github.com/your-github-username)  
+🔗 [**LinkedIn**](https://www.linkedin.com/in/brinda13)  
+💼 [**Portfolio / GitHub**](https://github.com/bindu)  
 📧 **brinda.contactme@gmail.com**  
 
 ✨ *“From Smart Contracts to Real-World Impact Securely Built.”* ✨  
