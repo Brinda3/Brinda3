@@ -59,14 +59,7 @@ Multi-chain wallet supporting EVM, Solana, and Tron with on-chain swaps and stak
 
 | Role | Company | Period |
 |------|----------|--------|
-| 🧩 Blockchain Developer | Early-Stage Web3 Startup | 2023 – Present |
-
----
-
-## 📊 GitHub Analytics  
-
-![Brinda's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Brinda3&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brinda3&layout=compact&theme=radical)  
+| 🧩 Blockchain Developer | FABC LLC Web3 Startup | 2023 – Present |
 
 ---
 
