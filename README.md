@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Brinda Parthiban  
 
-🚀 **Blockchain Developer | Smart Contracts | Web3 | DeFi | Python**  
+🚀 **Software Developer | Blockchain Developer | Smart Contracts | Web3 | DeFi | Python**  
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00F5D4&center=true&vCenter=true&width=500&lines=Building+secure+dApps+on+EVM+chains;Exploring+Web3+innovation;Always+learning+and+shipping+code!)
 
@@ -8,7 +8,7 @@
 
 ## 🧠 About Me  
 
-I’m **Brinda**, a passionate **Blockchain Developer** with 2+ years of experience building secure, production-grade Web3 systems in crypto and fintech environments.  
+I’m **Brinda**, a passionate **Blockchain Developer** with 2.6+ years of experience building secure, production-grade Web3 systems in web3 startup.  
 I’ve worked across **Solidity, Node.js, ethers.js**, and **Python**, crafting smart contracts, wallet integrations, and real-world tokenization systems that bring blockchain to practical use.  
 
 💡 I’m driven by curiosity and problem-solving always eager to learn, experiment, and create value through technology.  
