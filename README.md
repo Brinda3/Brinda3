@@ -8,7 +8,7 @@
 
 ## 🧠 About Me  
 
-I’m **Brinda**, a passionate **Blockchain Developer** with 2.6+ years of experience building secure, production-grade Web3 systems in web3 startup.  
+I’m **Brinda**, a passionate **Blockchain Developer** with 2.8 years of experience building secure, production-grade Web3 systems in web3 startup.  
 I’ve worked across **Solidity, Node.js, ethers.js**, and **Python**, crafting smart contracts, wallet integrations, and real-world tokenization systems that bring blockchain to practical use.  
 
 💡 I’m driven by curiosity and problem-solving always eager to learn, experiment, and create value through technology.  
