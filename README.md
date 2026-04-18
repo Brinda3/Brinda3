@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Brinda Parthiban  
 
-🚀 **Software Developer | Blockchain Developer | Smart Contracts | Web3 | DeFi | Python**  
+🚀 **Blockchain Developer | Smart Contracts | Web3 | DeFi | Python**  
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00F5D4&center=true&vCenter=true&width=500&lines=Building+secure+dApps+on+EVM+chains;Exploring+Web3+innovation;Always+learning+and+shipping+code!)
 
