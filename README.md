@@ -6,25 +6,15 @@
 
 ---
 
-## 🧠 About Me  
+##  About Me  
 
-I’m **Brinda**, a passionate **Blockchain Developer** with 2.8 years of experience building secure, production-grade Web3 systems in web3 startup.  
-I’ve worked across **Solidity, Node.js, ethers.js**, and **Python**, crafting smart contracts, wallet integrations, and real-world tokenization systems that bring blockchain to practical use.  
+I ship smart contracts that don't break in production and I've been doing it since before I graduated.
+Over 3 years at FABC LLC, I've taken EVM-based contracts from whiteboard to mainnet.
+My focus: gas-efficient Solidity, ERC token standards, multisig wallet architecture, and writing tests that actually catch edge cases (Hardhat + TypeScript).
+What I bring to a team: the ability to own a contract end-to-end from spec and architecture to deployment and audit prep without needing hand-holding.
 
-💡 I’m driven by curiosity and problem-solving always eager to learn, experiment, and create value through technology.  
-
+## Currently open to smart contract / Web3 engineering roles. Let's connect.
 ---
-
-## 💠 I Specialize In  
-
-⚙️ **Smart Contract Development:** Solidity, Hardhat, OpenZeppelin  
-🔗 **DeFi & Automation:** Flashloans, Cross-DEX Arbitrage, Staking  
-🏗 **Tokenization:** Real-World Assets (RWT), ICOs, Multi-Round Sales  
-💼 **Wallet & DApp Integrations:** Web3.js, ethers.js, Custodial & Non-Custodial Wallets  
-🧩 **Software Development:** Python, Node.js, JavaScript, Data Structures & Algorithms  
-
----
-
 ## 🧱 Tech Stack  
 
 ### 🔹 Smart Contracts & Blockchain  
@@ -35,24 +25,32 @@ I’ve worked across **Solidity, Node.js, ethers.js**, and **Python**, crafting 
 
 ---
 
-## 🚀 Featured Projects  
+## 💠 I Specialize In  
 
-### 🪙 **KooDooICO**  
+ **Smart Contract Development:** Solidity, Hardhat, OpenZeppelin  
+ **DeFi & Automation:** Flashloans, Cross-DEX Arbitrage, Staking  
+ **Tokenization:** Real-World Assets (RWT), ICOs, Multi-Round Sales  
+ **Wallet & DApp Integrations:** Web3.js, ethers.js, Custodial & Non-Custodial Wallets  
+ **Software Development:** Python, Node.js, JavaScript, Data Structures & Algorithms  
+
+---
+## 🧠 Featured Projects  
+
+###  **ICO**  
 KYC-based multi-round ICO contract with dynamic pricing, referral bonuses, and BNB/token payments.  
 **Tech:** Solidity, Hardhat, Chainlink, BNB Chain, OpenZeppelin  
 
-### 🏠 **RWT**  
+###  **RWT**  
 Real-World Asset Tokenization framework supporting ERC-2981 royalties, access control, and signature verification.  
 **Tech:** Solidity, Hardhat, Polygon, OpenZeppelin  
 
-### ⚡ **Cross-DEX Arbitrage Bot**  
+###  **Cross-DEX Arbitrage Bot**  
 Automated flashloan arbitrage system executing profitable trades via Aave and OpenOcean.  
 **Tech:** Node.js, Solidity, Aave Protocol, OpenOcean API  
 
-### 💼 **Custodial Wallet Platform**  
+###  **Custodial Wallet Platform**  
 Multi-chain wallet supporting EVM, Solana, and Tron with on-chain swaps and staking.  
 **Tech:** React Native, Ethers.js, Solana Web3.js, TronWeb  
-
 ---
 
 ## 🧭 Experience  
@@ -63,14 +61,9 @@ Multi-chain wallet supporting EVM, Solana, and Tron with on-chain swaps and stak
 
 ---
 
-## ⚡ Quote of the Day  
-> *“Build it. Break it. Fix it. Learn from it.”*  
-
----
-
 ## 💬 Connect with Me  
 
-📍 **Based in:** India  
+📍 **Based in:** India 
 🔗 [**LinkedIn**](https://www.linkedin.com/in/brinda13)  
 💼 [**Portfolio / GitHub**](https://github.com/brinda3)  
 📧 **brinda.contactme@gmail.com**  
