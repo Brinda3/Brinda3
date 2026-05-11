@@ -1,15 +1,15 @@
-# Hey there, I'm Brinda Parthiban,Blockchian developer based in India
+Hey there! 👋
 
-**Smart Contract Engineer | DeFi | Tokenization | Security-focused**
+I'm Brinda, a Blockchain Developer based in India.
 
-##  About Me 
-I ship smart contracts that don't break in production and I've been doing it since before I graduated.
-Over 3 years at FABC LLC, I've taken EVM-based contracts from whiteboard to mainnet.
+I ship smart contracts that don't break in production and I've been doing it since before I graduated. Over 3 years at FABC LLC, I've taken EVM-based contracts from whiteboard to mainnet.
 
-My focus: gas-efficient Solidity, ERC token standards, multisig wallet architecture, and writing tests that actually catch edge cases (Hardhat + TypeScript).
+'My focus: gas-efficient Solidity, ERC token standards, multisig wallet architecture, and writing tests that actually catch edge cases (Hardhat + TypeScript).
+
 What I bring to a team: the ability to own a contract end-to-end from spec and architecture to deployment and audit prep without needing hand-holding.
 
-## Currently open to smart contract / Web3 engineering roles. Let's connect.
+Currently open to Smart Contract Engineer and Web3 opportunities.
+
 ---
 ## Tech Stack  
 
@@ -18,7 +18,10 @@ What I bring to a team: the ability to own a contract end-to-end from spec and a
 
 ### Web & Development Tools  
 `Node.js` · `Python` · `TypeScript` · `React Native` · `Ethers.js` · `Web3.js` · `IPFS` · `OpenZeppelin` · `Chainlink` · `Mocha`  
+
 ---
+
+**Smart Contract Engineer | DeFi | Tokenization | Security-focused**
 
 ##  Connect with Me  
 
@@ -26,5 +29,15 @@ What I bring to a team: the ability to own a contract end-to-end from spec and a
 🔗 [**LinkedIn**](https://www.linkedin.com/in/brinda13)  
 💼 [**Portfolio / GitHub**](https://github.com/brinda3)  
 📧 **brinda.contactme@gmail.com**  
+
+Currently open to Smart Contract Engineer and Web3 Developer opportunities.
+
+Fun facts:
+
+* I enjoy dancing
+* I love cats
+* Ghibli studio movies are my fav 
+* I dont like tea or coffee
+
 
 
