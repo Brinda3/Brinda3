@@ -11,16 +11,16 @@ What I bring to a team: the ability to own a contract end-to-end from spec and a
 
 ## Currently open to smart contract / Web3 engineering roles. Let's connect.
 ---
-## 🧱 Tech Stack  
+## Tech Stack  
 
 ### 🔹 Smart Contracts & Blockchain  
 `Solidity` · `Hardhat` · `Ethereum` · `Polygon` · `BSC` · `Arbitrum` · `Base` · `AVAX` · `TON`  
 
-### 💻 Web & Development Tools  
+### Web & Development Tools  
 `Node.js` · `Python` · `TypeScript` · `React Native` · `Ethers.js` · `Web3.js` · `IPFS` · `OpenZeppelin` · `Chainlink` · `Mocha`  
 ---
 
-## 💬 Connect with Me  
+##  Connect with Me  
 
 📍 **Based in:** India 
 🔗 [**LinkedIn**](https://www.linkedin.com/in/brinda13)  
