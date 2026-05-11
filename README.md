@@ -10,7 +10,6 @@ What I bring to a team: the ability to own a contract end-to-end from spec and a
 
 Currently open to Smart Contract Engineer and Web3 opportunities.
 
----
 ## Tech Stack  
 
 ### 🔹 Smart Contracts & Blockchain  
@@ -18,8 +17,6 @@ Currently open to Smart Contract Engineer and Web3 opportunities.
 
 ### Web & Development Tools  
 `Node.js` · `Python` · `TypeScript` · `React Native` · `Ethers.js` · `Web3.js` · `IPFS` · `OpenZeppelin` · `Chainlink` · `Mocha`  
-
----
 
 **Smart Contract Engineer | DeFi | Tokenization | Security-focused**
 
